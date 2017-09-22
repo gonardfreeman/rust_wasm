@@ -1,0 +1,6 @@
+[package]
+name = "webassembly"
+version = "0.1.0"
+authors = ["Dmytro Bondarenko <007arenko@gmail.com>"]
+
+[dependencies]
